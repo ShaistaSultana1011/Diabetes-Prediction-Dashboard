@@ -121,7 +121,9 @@ Analyze lifestyle, diet, sedentary habits, family history, and stress levels
 
 Many people believe heart disease and diabetes primarily affect smokers. Use this data to raise awareness that:
 
-Non-smokers are not exempt from chronic conditions
+Non-smokers are not exempt from chronic conditions.
+
+🧩 DatasetSource: Kaggle - Diabetes prediction Dataset
 
 🛠 Tools Used
 
@@ -132,9 +134,6 @@ Excel/CSV – For data preprocessing and exploration
 
 
 
-Prevention efforts should be universal, not just focused on high-risk lifestyle groups
-
-Expand predictive models beyond smoking status to include BMI, glucose, HbA1c, and age
 
 
    

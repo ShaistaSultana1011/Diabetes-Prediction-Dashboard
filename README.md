@@ -93,13 +93,16 @@ Create Female-focused health interventions and lifestyle awareness campaigns, pa
 Special attention should be given to patients over 60, with personalized care plans due to the sharp rise in diabetes and heart disease cases at older ages.
 
 4. Integrate Care for Comorbid Conditions
+   
 Design integrated health plans that simultaneously address diabetes, hypertension, and heart disease, since these frequently co-occur.
 
 
 5. Improve Lifestyle Interventions for High BMI
+   
 Promote weight management programs and nutritional counseling, as high BMI appears strongly linked to both diabetes and heart disease across all ages.
 
 6. Deploy Predictive Analytics in Public Health
+   
 Use models that integrate blood glucose, HbA1c, BMI, and age to predict high-risk patients and intervene before conditions escalate.
 
 7. Do Not Ignore Non-Smokers in Preventive Care

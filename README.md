@@ -48,13 +48,13 @@ Consistent growth is observed from age 40 onwards.
 
 Many diabetic patients also suffer from hypertension and heart disease, suggesting strong comorbid relationships.
 
-6. Health Metrics Remain High Across Age Groups
+5. Health Metrics Remain High Across Age Groups
    
 Blood Glucose, HbA1c, and BMI values remain elevated across most age ranges, with a slight upward trend in older age.
 
 High BMI and blood glucose levels are consistently seen in patients with heart disease.
 
-7. Female Non-Smokers Still Have High Health Risk
+6. Female Non-Smokers Still Have High Health Risk
    
 Among female patients who never smoked:
 
@@ -66,7 +66,7 @@ Among female patients who never smoked:
 
 Despite having no smoking history, this group still shows high incidence across all three conditions.
 
-8. Heart Disease Prevalence in All Groups
+7. Heart Disease Prevalence in All Groups
    
 Heart disease is present across all patient groups, including those with:
 

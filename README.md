@@ -129,7 +129,7 @@ Non-smokers are not exempt from chronic conditions.
 
 Power BI – For data visualization and interactive dashboarding
 
-Excel/CSV – For Dataset,Data cleaning
+Excel/CSV – For Dataset cleaning And Preparation
 
 Kaggle – for sourcing the dataset
 
